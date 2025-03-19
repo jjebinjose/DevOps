@@ -15,8 +15,7 @@ After successfully building the project in Jenkins, I accessed Nginx’s default
 documented the process with screenshots.  
 
 
-
-![WhatsApp Image 2025-03-18 at 10 17 44_2fe2c551](https://github.com/user-attachments/assets/e640c5fb-c815-4e19-b390-c6a7cb98dc70)
-![WhatsApp Image 2025-03-18 at 10 17 43_9aa7a44a](https://github.com/user-attachments/assets/d5a91200-5b9e-4813-83c9-0319ef977627)
-![WhatsApp Image 2025-03-18 at 10 17 43_7ece30e3](https://github.com/user-attachments/assets/99b802a7-9f54-4465-84db-af00188b0614)
-![WhatsApp Image 2025-03-18 at 10 17 44_a1931c81](https://github.com/user-attachments/assets/8df79c49-06cb-4db7-a80a-f0fe6be72eeb)
+![Screenshot from 2025-03-19 09-08-56](https://github.com/user-attachments/assets/0ef9809a-a806-462c-b5a4-f865c4947921)
+![Screenshot from 2025-03-19 09-09-27](https://github.com/user-attachments/assets/cde56370-dc85-4b77-b9cd-5245c8bb4e67)
+![Screenshot from 2025-03-19 09-09-47](https://github.com/user-attachments/assets/44545e59-b364-4f06-b538-98765d036fb0)
+![Screenshot from 2025-03-19 09-10-31](https://github.com/user-attachments/assets/2bf1e595-9c87-465b-8bfe-d745d1d731e4)
